@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="finagleKotlin:test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="g1" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="2" platform="JVM 1.6" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="E:\github\finagleKotlin\build\kotlin-classes\test" />
+          <option name="classpath" value="C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre8\1.1.2-2\dd267c09da9c17ca21037429205eb12bf81489f7\kotlin-stdlib-jre8-1.1.2-2.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\finagle-http_2.11\6.44.0\29b7d84135b37e131965fd8a040c0cd744d34d41\finagle-http_2.11-6.44.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.2-2\cec67c14515d8af92ae3e20e27b6da50a26fde84\kotlin-stdlib-jre7-1.1.2-2.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\finagle-base-http_2.11\6.44.0\68a23a9d2e1fb3b8922f5d5bf22a7d91bd95d446\finagle-base-http_2.11-6.44.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\finagle-netty4-http_2.11\6.44.0\f835be5f884ed43f4d2f0f3bde74a435a0d61df0\finagle-netty4-http_2.11-6.44.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\finagle-http2_2.11\6.44.0\bbdcb4d468515dfde0d7f8731e9fbf66da086322\finagle-http2_2.11-6.44.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\finagle-toggle_2.11\6.44.0\36876eb4bb14256a154461f6df599f5a43480e2b\finagle-toggle_2.11-6.44.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\util-codec_2.11\6.43.0\fab0b12762292aa328cd2887450d650f329e32cb\util-codec_2.11-6.43.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\util-collection_2.11\6.43.0\7a6c384c01b862fcc636d0972e36979c475873df\util-collection_2.11-6.43.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\util-logging_2.11\6.43.0\f6073ad8ba8fb8e392f85f46ddc8be4fdc4732a5\util-logging_2.11-6.43.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\commons-lang\commons-lang\2.6\ce1edb914c94ebc388f086c6827e8bdeec71ac2\commons-lang-2.6.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\19.0\6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9\guava-19.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.2-2\2b22828f027e103dcd45f3aa240338bfdb53d16b\kotlin-stdlib-1.1.2-2.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\finagle-core_2.11\6.44.0\b9026c3701fadac9f8ac98747cd802b9fec062a6\finagle-core_2.11-6.44.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\finagle-netty4_2.11\6.44.0\62ae86a6213e31196ddf7fe226ca203b6a6ba0d\finagle-netty4_2.11-6.44.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\util-app_2.11\6.43.0\7370b0cec89d49cf560715ea97e863b3503c56cf\util-app_2.11-6.43.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\util-core_2.11\6.43.0\fc02570901f77cc138d82240f6b7a8bb6e45a5dd\util-core_2.11-6.43.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\util-jvm_2.11\6.43.0\23a7964161cf941e1a40fb4b9082aa7df4383de3\util-jvm_2.11-6.43.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\util-stats_2.11\6.43.0\a150963587d09c163adb651d60d6051499dcc87e\util-stats_2.11-6.43.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec-http\4.1.9.Final\efb68f8ce201d180fdbbec8ade5e25684cae12bc\netty-codec-http-4.1.9.Final.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec-http2\4.1.9.Final\340b68d15a9efa6a83df3e450aadc6969b78de12\netty-codec-http2-4.1.9.Final.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\util-cache_2.11\6.43.0\3d5825358b139e3bf60e00c76ba2c25291d3a2b8\util-cache_2.11-6.43.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\io.netty\netty\3.10.1.Final\ca63e69a44f86ce822c73fee02267de6526acb68\netty-3.10.1.Final.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\io.netty\netty-handler\4.1.9.Final\e8caa6945995ccd03b232d6b31ee698668b47a1f\netty-handler-4.1.9.Final.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport\4.1.9.Final\aaeed88d6a5c0bfc8d7a78225f4f093544470f5a\netty-transport-4.1.9.Final.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.9.Final\7a77f72d04fd6f2393a9b7de1a25900c53cd0c51\netty-transport-native-epoll-4.1.9.Final-linux-x86_64.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\io.netty\netty-handler-proxy\4.1.9.Final\e2f6aefdde50c97fd61648f40e187251ed32ffa0\netty-handler-proxy-4.1.9.Final.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.8.4\ca365c0817cc345ea831cae7c4e9b42a72b32281\jackson-core-2.8.4.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.8.4\1c36c81e79cacdf48116afba8495e3393d267ba1\jackson-databind-2.8.4.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.module\jackson-module-scala_2.11\2.8.4\f49de3f71188d44f7736fa80bcb0dd4fcd10125d\jackson-module-scala_2.11-2.8.4.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\util-hashing_2.11\6.43.0\793d0cbaac9e62024dfcd7fb7b21f5362aeccc05\util-hashing_2.11-6.43.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\util-lint_2.11\6.43.0\ea5ab48cbc4c9e4fead44cfa125f254eea18c0ed\util-lint_2.11-6.43.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\util-registry_2.11\6.43.0\6c3be2976b2f32d970bd7ec077811a99cb1deac\util-registry_2.11-6.43.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\util-security_2.11\6.43.0\ce8c5ca21d2cd223176cd056e0be8bcca5fa369\util-security_2.11-6.43.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\util-tunable_2.11\6.43.0\42ab3b66611c8ec6e400d866727793b1286ec079\util-tunable_2.11-6.43.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.github.ben-manes.caffeine\caffeine\2.3.4\7b65cd4af7141606b9e7e74abdbbb02ef7ee0cc4\caffeine-2.3.4.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.twitter\util-function_2.11\6.43.0\e52f3a5f1a84546b396b4a7210374bda3457ea88\util-function_2.11-6.43.0.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-reflect\2.11.8\b74530deeba742ab4f3134de0c2da0edc49ca361\scala-reflect-2.11.8.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\org.scala-lang.modules\scala-parser-combinators_2.11\1.0.4\7369d653bcfa95d321994660477a4d7e81d7f490\scala-parser-combinators_2.11-1.0.4.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec\4.1.9.Final\f41b5fdaaaf7b1e8de4e05be5f5b540f3b205959\netty-codec-4.1.9.Final.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\io.netty\netty-buffer\4.1.9.Final\6ec75e26374569ec0120c63c50fb930c48270e0d\netty-buffer-4.1.9.Final.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\io.netty\netty-resolver\4.1.9.Final\9e1f26ad1988fcbe0fc824940dfe6de9d2f438da\netty-resolver-4.1.9.Final.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\io.netty\netty-common\4.1.9.Final\7c6ba17f3b9e08fbbfc000fa3ce46208446a0019\netty-common-4.1.9.Final.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec-socks\4.1.9.Final\cc7245adc092cfcaba78facf93f967923ae41ba8\netty-codec-socks-4.1.9.Final.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.module\jackson-module-paranamer\2.8.4\1a73c33b0099d67ac52bb5db1a7398f42abe188a\jackson-module-paranamer-2.8.4.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.thoughtworks.paranamer\paranamer\2.8\619eba74c19ccf1da8ebec97a2d7f8ba05773dd6\paranamer-2.8.jar;C:\Users\kirichenko\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.8.4\de3570327cf8d1d4f37920535c51a1f74225a6de\jackson-annotations-2.8.4.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="finagleKotlin_main" />
+          <option name="jvmTarget" value="1.6" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
+          <option name="languageVersion" value="1.1" />
+          <option name="apiVersion" value="1.1" />
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="coroutinesWarn" value="true" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="finagleKotlin_main" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jre8:1.1.2-2" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:finagle-http_2.11:6.44.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jre7:1.1.2-2" level="project" />
+    <orderEntry type="library" name="Gradle: org.scala-lang:scala-library:2.11.8" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:finagle-base-http_2.11:6.44.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:finagle-netty4-http_2.11:6.44.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:finagle-http2_2.11:6.44.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:finagle-toggle_2.11:6.44.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:util-codec_2.11:6.43.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:util-collection_2.11:6.43.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:util-logging_2.11:6.43.0" level="project" />
+    <orderEntry type="library" name="Gradle: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:19.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.1.2-2" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:finagle-core_2.11:6.44.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:finagle-netty4_2.11:6.44.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:util-app_2.11:6.43.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:util-core_2.11:6.43.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:util-jvm_2.11:6.43.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:util-stats_2.11:6.43.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-http:4.1.9.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-http2:4.1.9.Final" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:util-cache_2.11:6.43.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty:3.10.1.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler:4.1.9.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport:4.1.9.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.9.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler-proxy:4.1.9.Final" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.8.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.8.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.module:jackson-module-scala_2.11:2.8.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:util-hashing_2.11:6.43.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:util-lint_2.11:6.43.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:util-registry_2.11:6.43.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:util-security_2.11:6.43.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:util-tunable_2.11:6.43.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.ben-manes.caffeine:caffeine:2.3.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.twitter:util-function_2.11:6.43.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.scala-lang:scala-reflect:2.11.8" level="project" />
+    <orderEntry type="library" name="Gradle: org.scala-lang.modules:scala-parser-combinators_2.11:1.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec:4.1.9.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-buffer:4.1.9.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver:4.1.9.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-common:4.1.9.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-socks:4.1.9.Final" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.module:jackson-module-paranamer:2.8.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.thoughtworks.paranamer:paranamer:2.8" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.8.4" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="finagleKotlin_main" />
+</module>

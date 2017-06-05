@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:util-logging_2.11:6.43.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/util-logging_2.11/6.43.0/f6073ad8ba8fb8e392f85f46ddc8be4fdc4732a5/util-logging_2.11-6.43.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/util-logging_2.11/6.43.0/37e8968fb895f3788c5ae5facb215eb9dbf973fd/util-logging_2.11-6.43.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:util-function_2.11:6.43.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/util-function_2.11/6.43.0/e52f3a5f1a84546b396b4a7210374bda3457ea88/util-function_2.11-6.43.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/util-function_2.11/6.43.0/fe2936d35de979414a304a672bf34607d3692029/util-function_2.11-6.43.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

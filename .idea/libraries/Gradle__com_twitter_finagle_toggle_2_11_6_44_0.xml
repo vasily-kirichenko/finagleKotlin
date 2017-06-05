@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:finagle-toggle_2.11:6.44.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-toggle_2.11/6.44.0/36876eb4bb14256a154461f6df599f5a43480e2b/finagle-toggle_2.11-6.44.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-toggle_2.11/6.44.0/6e7704a8be2597055fca3e244b56c6f4c0d74985/finagle-toggle_2.11-6.44.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:util-core_2.11:6.43.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/util-core_2.11/6.43.0/fc02570901f77cc138d82240f6b7a8bb6e45a5dd/util-core_2.11-6.43.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/util-core_2.11/6.43.0/394eb14cfd0545f4e8ac55e9aa1a396d5cb2c049/util-core_2.11-6.43.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
